@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RadiantDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<InvoiceList>
+<Invoice IdentifierType="b" InvoiceDate="2022-05-04" InvoiceNumber="AU04447777">
+<SupplierData SupplierEDINumber="9310704654494"/>
+<BusinessUnitData BusinessUnitEDINumber="9329652006446"/>
+<ReferencedDocument DocumentTypeCode="p" DocumentTypeName="Purchase Order" PurchaseOrderNumber="2525062"/>
+<ItemList>
+<ItemGST Name="BOND STREET CLASSIC BLUE KS BOX 20" ProductCode="9310704914239" Barcode="9310704914239" Quantity="1" TaxID="A5" CostExclTax="238.15" CostInclTax="261.965000" ExtCostExclTax="238.15" ExtCostInclTax="261.970000" ExtTaxAmt="23.82"/>
+<ItemGST Name="BOND STREET CLASSIC GOLD KS BOX 20" ProductCode="9310704914253" Barcode="9310704914253" Quantity="1" TaxID="A5" CostExclTax="238.15" CostInclTax="261.965000" ExtCostExclTax="238.15" ExtCostInclTax="261.970000" ExtTaxAmt="23.82"/>
+<ItemGST Name="BOND STREET P21 GOLD 15G (5PK)" ProductCode="9310704914116" Barcode="9310704914116" Quantity="1" TaxID="A5" CostExclTax="119.71" CostInclTax="131.681000" ExtCostExclTax="119.71" ExtCostInclTax="131.680000" ExtTaxAmt="11.97"/>
+<ItemGST Name="BOND STREET P21 BLUE 15G (5PK)" ProductCode="9310704913829" Barcode="9310704913829" Quantity="1" TaxID="A5" CostExclTax="119.71" CostInclTax="131.681000" ExtCostExclTax="119.71" ExtCostInclTax="131.680000" ExtTaxAmt="11.97"/>
+<ItemGST Name="BOND STREET P21 RED 15G (5PK)" ProductCode="9310704913805" Barcode="9310704913805" Quantity="1" TaxID="A5" CostExclTax="119.71" CostInclTax="131.681000" ExtCostExclTax="119.71" ExtCostInclTax="131.680000" ExtTaxAmt="11.97"/>
+<ItemGST Name="CHESTERFIELD BLUE KS BOX 20" ProductCode="9310704919562" Barcode="9310704919562" Quantity="2" TaxID="A5" CostExclTax="230.73" CostInclTax="253.803000" ExtCostExclTax="461.46" ExtCostInclTax="507.610000" ExtTaxAmt="46.15"/>
+<ItemGST Name="CHESTERFIELD RED KS BOX 20" ProductCode="9310704919548" Barcode="9310704919548" Quantity="1" TaxID="A5" CostExclTax="230.73" CostInclTax="253.803000" ExtCostExclTax="230.73" ExtCostInclTax="253.800000" ExtTaxAmt="23.07"/>
+<ItemGST Name="CHOICE SIGNATURE BLONDE GOLD 20/200" ProductCode="9310704913492" Barcode="9310704913492" Quantity="1" TaxID="A5" CostExclTax="244.24" CostInclTax="268.664000" ExtCostExclTax="244.24" ExtCostInclTax="268.670000" ExtTaxAmt="24.43"/>
+<ItemGST Name="CHOICE SIGNATURE ORIGINAL BLUE 20/200" ProductCode="9310704910378" Barcode="9310704910378" Quantity="1" TaxID="A5" CostExclTax="244.24" CostInclTax="268.664000" ExtCostExclTax="244.24" ExtCostInclTax="268.670000" ExtTaxAmt="24.43"/>
+<ItemGST Name="LONGBEACH MENTHOL GREEN + FF 20/200" ProductCode="9310704639606" Barcode="9310704639606" Quantity="1" TaxID="A5" CostExclTax="291.54" CostInclTax="320.694000" ExtCostExclTax="291.54" ExtCostInclTax="320.700000" ExtTaxAmt="29.16"/>
+<ItemGST Name="MARLBORO GOLD + FIRM FILTER 25S" ProductCode="93450430" Barcode="93450430" Quantity="1" TaxID="A5" CostExclTax="311.89" CostInclTax="343.079000" ExtCostExclTax="311.89" ExtCostInclTax="343.050000" ExtTaxAmt="31.16"/>
+<ItemGST Name="PETER JACKSON GOLD FRESH BURST 20 THIS IS AN EXMAMPLE OF THE FAULTY ITEM WITH MORE THEN 50 SIGNS IN ITS NAME" ProductCode="93219044" Barcode="93219044" Quantity="1" TaxID="A5" CostExclTax="298.92" CostInclTax="328.812000" ExtCostExclTax="298.92" ExtCostInclTax="328.810000" ExtTaxAmt="29.89"/>
+</ItemList>
+<TaxList>
+<Tax TaxAmount="291.84" ExternalId="A5"/>
+</TaxList>
+<TotalGST CostInclTax="3210.29" CostExclTax="2918.45" TaxAmt="291.84"/>
+</Invoice>
+</InvoiceList>
+</RadiantDocument>

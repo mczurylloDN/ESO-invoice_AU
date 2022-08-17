@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Invoices file, Source system: TP1  (KAR)-->
+<RadiantDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<InvoiceList>
+		<Invoice InvoiceDate="20220708" InvoiceNumber="2193752446">
+			<SupplierData SupplierEDINumber="4388520000004"/>
+			<BusinessUnitData BusinessUnitEDINumber="4010487393010"/>
+			<ItemList>
+				<ItemGST CostExclTax="63.228" CostInclTax="75.241" ExtCostExclTax="63.23" ExtCostInclTax="75.24" ExtTaxAmt="12.01" Name="l DPG S Pellegrino/Acqua Pa&gt;" ProductCode="87929600132" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="Aral_Aktion_Juli_22" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="4.26" CostInclTax="4.558" ExtCostExclTax="4.26" ExtCostInclTax="4.56" ExtTaxAmt="0.3" Name="7 DAYS Croissant Kakaocre&gt;" ProductCode="33644820010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="59.72" CostInclTax="71.067" ExtCostExclTax="119.44" ExtCostInclTax="142.13" ExtTaxAmt="22.69" Name="8.00 Amer Spiri Yell  BP" ProductCode="87624700010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="20.835" CostInclTax="24.794" ExtCostExclTax="20.84" ExtCostInclTax="24.8" ExtTaxAmt="3.96" Name="5.60 Am Spirit Ma B Gold" ProductCode="78115540005" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="Aral_Aktion_Juli_22" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="59.72" CostInclTax="71.067" ExtCostExclTax="59.72" ExtCostInclTax="71.07" ExtTaxAmt="11.35" Name="8.00 Amer Spir Oran BP L" ProductCode="78270720010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="19.805" CostInclTax="23.568" ExtCostExclTax="19.81" ExtCostInclTax="23.57" ExtTaxAmt="3.76" Name="5.30 Am Spirit Orig Blue" ProductCode="87310530005" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="25.092" CostInclTax="26.848" ExtCostExclTax="25.09" ExtCostInclTax="26.85" ExtTaxAmt="1.76" Name="Aoste Stickado Classique" ProductCode="33373670012" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="28.728" CostInclTax="34.186" ExtCostExclTax="28.73" ExtCostInclTax="34.19" ExtTaxAmt="5.46" Name="Aral KlareSicht IntensivKO" ProductCode="87092720006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="16.996" CostInclTax="20.225" ExtCostExclTax="17.0" ExtCostInclTax="20.23" ExtTaxAmt="3.23" Name="Aral KlSi Som ScheiVersie&gt;" ProductCode="87587410004" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="19.972" CostInclTax="23.767" ExtCostExclTax="19.97" ExtCostInclTax="23.76" ExtTaxAmt="3.79" Name="Aral KlareSicht Sommer FM&gt;" ProductCode="87662460004" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="54.23" CostInclTax="64.534" ExtCostExclTax="54.23" ExtCostInclTax="64.53" ExtTaxAmt="10.3" Name="7.20 Camel Blue     OP L" ProductCode="87061960010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.672" CostInclTax="57.92" ExtCostExclTax="48.67" ExtCostInclTax="57.92" ExtTaxAmt="9.25" Name="8.00 Camel Blue    BP XL" ProductCode="78275020008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.032" CostInclTax="72.628" ExtCostExclTax="61.03" ExtCostInclTax="72.63" ExtTaxAmt="11.6" Name="10.00 Camel Blue BP XXXXL" ProductCode="87097040008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="54.23" CostInclTax="64.534" ExtCostExclTax="108.46" ExtCostInclTax="129.07" ExtTaxAmt="20.61" Name="7.20 Camel Yellow   OP L" ProductCode="87075860010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.672" CostInclTax="57.92" ExtCostExclTax="48.67" ExtCostInclTax="57.92" ExtTaxAmt="9.25" Name="8.00 Camel Yellow  BP XL" ProductCode="78275920008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.032" CostInclTax="72.628" ExtCostExclTax="183.1" ExtCostInclTax="217.89" ExtTaxAmt="34.79" Name="10.00 Camel Yel BP  XXXXL" ProductCode="78270940008" Quantity="3.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="2.924" CostInclTax="3.48" ExtCostExclTax="5.85" ExtCostInclTax="6.96" ExtTaxAmt="1.11" Name="4.70 DA Al Capo Pock Fil" ProductCode="86914350001" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="1.193" CostInclTax="1.42" ExtCostExclTax="8.35" ExtCostInclTax="9.94" ExtTaxAmt="1.59" Name="2.05 DA Moods Filter" ProductCode="86935090001" Quantity="7.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="4.169" CostInclTax="4.961" ExtCostExclTax="8.34" ExtCostInclTax="9.92" ExtTaxAmt="1.58" Name="7.00 DA Moods Sunshine" ProductCode="86911480001" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.79" CostInclTax="68.77" ExtCostExclTax="57.79" ExtCostInclTax="68.77" ExtTaxAmt="10.98" Name="7.70 Davidoff Classic" ProductCode="87131090010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.79" CostInclTax="68.77" ExtCostExclTax="57.79" ExtCostInclTax="68.77" ExtTaxAmt="10.98" Name="7.70 Davidoff Gold" ProductCode="87105130010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.43" CostInclTax="69.532" ExtCostExclTax="58.43" ExtCostInclTax="69.53" ExtTaxAmt="11.1" Name="7.80 Davidoff Gold SL Li" ProductCode="87117170010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="14.57" CostInclTax="15.59" ExtCostExclTax="14.57" ExtCostInclTax="15.59" ExtTaxAmt="1.02" Name="MSC Thunfisch in Öl      &gt;" ProductCode="86055870010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="10.572" CostInclTax="12.581" ExtCostExclTax="10.57" ExtCostInclTax="12.58" ExtTaxAmt="2.01" Name="DPG Coca Cola PET" ProductCode="67296730006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="19.392" CostInclTax="23.077" ExtCostExclTax="19.39" ExtCostInclTax="23.07" ExtTaxAmt="3.68" Name="DPG Faxe 10% Extra Strong&gt;" ProductCode="07844640012" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="7.548" CostInclTax="8.982" ExtCostExclTax="15.1" ExtCostInclTax="17.97" ExtTaxAmt="2.87" Name="DPG Fuze Tea Pfi/Hib PET &gt;" ProductCode="71758570012" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="7.548" CostInclTax="8.982" ExtCostExclTax="15.1" ExtCostInclTax="17.97" ExtTaxAmt="2.87" Name="DPG Fuze Tea Pfirsich PET&gt;" ProductCode="71950700012" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="6.81" CostInclTax="8.104" ExtCostExclTax="6.81" ExtCostInclTax="8.1" ExtTaxAmt="1.29" Name="DPG Lipton Zitrone" ProductCode="85536660006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="5.622" CostInclTax="6.69" ExtCostExclTax="5.62" ExtCostInclTax="6.69" ExtTaxAmt="1.07" Name="DPG Orangina Original PET" ProductCode="81576710006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="15.804" CostInclTax="18.807" ExtCostExclTax="15.8" ExtCostInclTax="18.8" ExtTaxAmt="3.0" Name="DPG Vio Bio Limo Zitr-Lim&gt;" ProductCode="24743450018" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="56.68" CostInclTax="67.449" ExtCostExclTax="56.68" ExtCostInclTax="67.45" ExtTaxAmt="10.77" Name="7.80 Drum Original" ProductCode="77754570010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.696" CostInclTax="57.948" ExtCostExclTax="48.7" ExtCostInclTax="57.95" ExtTaxAmt="9.25" Name="8.00 Elixyr Plus Cig  XL" ProductCode="78209150008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="76.536" CostInclTax="81.894" ExtCostExclTax="76.54" ExtCostInclTax="81.9" ExtTaxAmt="5.36" Name="Feine Welt RTG Espresso" ProductCode="30206700008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="13.89" CostInclTax="14.862" ExtCostExclTax="13.89" ExtCostInclTax="14.86" ExtTaxAmt="0.97" Name="FF Riffels Chili+Paprika" ProductCode="37267030010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="7.548" CostInclTax="8.982" ExtCostExclTax="15.1" ExtCostInclTax="17.97" ExtTaxAmt="2.87" Name="DPG Fuze Tea Pfirs/Hol oZ&gt;" ProductCode="79228030012" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="56.29" CostInclTax="66.985" ExtCostExclTax="56.29" ExtCostInclTax="66.99" ExtTaxAmt="10.7" Name="7.50 Gauloises Bl Blau" ProductCode="87102250010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="68.568" CostInclTax="81.596" ExtCostExclTax="68.57" ExtCostInclTax="81.6" ExtTaxAmt="13.03" Name="15.00 Gauloises Blond Bla" ProductCode="78233010006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.16" CostInclTax="72.78" ExtCostExclTax="61.16" ExtCostInclTax="72.78" ExtTaxAmt="11.62" Name="10.00 Gauloises Bl Blau" ProductCode="87090890008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.56" CostInclTax="57.786" ExtCostExclTax="97.12" ExtCostInclTax="115.57" ExtTaxAmt="18.45" Name="8.00 Gauloises Bl Blau" ProductCode="87119860008" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="68.568" CostInclTax="81.596" ExtCostExclTax="137.14" ExtCostInclTax="163.2" ExtTaxAmt="26.06" Name="15.00 Gauloises Blond Rot" ProductCode="87128030006" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.16" CostInclTax="72.78" ExtCostExclTax="183.48" ExtCostInclTax="218.34" ExtTaxAmt="34.86" Name="10.00 Gauloises Bl Rot" ProductCode="78237950008" Quantity="3.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="56.29" CostInclTax="66.985" ExtCostExclTax="168.87" ExtCostInclTax="200.96" ExtTaxAmt="32.09" Name="7.50 Gauloises Bl Rot" ProductCode="87132290010" Quantity="3.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.56" CostInclTax="57.786" ExtCostExclTax="437.04" ExtCostInclTax="520.08" ExtTaxAmt="83.04" Name="8.00 Gauloises Bl Rot" ProductCode="87097910008" Quantity="9.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="56.29" CostInclTax="66.985" ExtCostExclTax="112.58" ExtCostInclTax="133.97" ExtTaxAmt="21.39" Name="7.50 Gauloise Libert Rot" ProductCode="78234370010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="6.594" CostInclTax="7.847" ExtCostExclTax="6.59" ExtCostInclTax="7.84" ExtTaxAmt="1.25" Name="DPG Gerolst L-Limo Ora-Pa&gt;" ProductCode="78679700006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="10.824" CostInclTax="12.881" ExtCostExclTax="10.82" ExtCostInclTax="12.88" ExtTaxAmt="2.06" Name="DPG Gerolst Sprudel PET  &gt;" ProductCode="64203380024" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="12.0" CostInclTax="14.28" ExtCostExclTax="12.0" ExtCostInclTax="14.28" ExtTaxAmt="2.28" Name="GIZEH Black Fine" ProductCode="12902380020" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="10.56" CostInclTax="12.566" ExtCostExclTax="10.56" ExtCostInclTax="12.57" ExtTaxAmt="2.01" Name="GIZEH Slim Filter" ProductCode="00668290020" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="12.0" CostInclTax="14.28" ExtCostExclTax="12.0" ExtCostInclTax="14.28" ExtTaxAmt="2.28" Name="GIZEH Black Special" ProductCode="12617240020" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="11.15" CostInclTax="13.269" ExtCostExclTax="11.15" ExtCostInclTax="13.27" ExtTaxAmt="2.12" Name="GIZEH Special" ProductCode="57406570050" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.41" CostInclTax="57.608" ExtCostExclTax="145.23" ExtCostInclTax="172.82" ExtTaxAmt="27.59" Name="6.50 IQOS Heets Russ Sel" ProductCode="77996800010" Quantity="3.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.41" CostInclTax="57.608" ExtCostExclTax="48.41" ExtCostInclTax="57.61" ExtTaxAmt="9.2" Name="6.50 IQOS Heets Teak" ProductCode="86914780010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.41" CostInclTax="57.608" ExtCostExclTax="96.82" ExtCostInclTax="115.22" ExtTaxAmt="18.4" Name="6.50 IQOS Heets Yell Gre" ProductCode="78363820010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="10.78" CostInclTax="11.535" ExtCostExclTax="10.78" ExtCostInclTax="11.53" ExtTaxAmt="0.75" Name="H&amp;S Tortilla Chips Cheese&gt;" ProductCode="35567260010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="10.78" CostInclTax="11.535" ExtCostExclTax="10.78" ExtCostInclTax="11.53" ExtTaxAmt="0.75" Name="H&amp;S Tortilla Chips Salty &gt;" ProductCode="35567200010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="29.582" CostInclTax="35.203" ExtCostExclTax="29.58" ExtCostInclTax="35.2" ExtTaxAmt="5.62" Name="IQOS 3 DUO KIT Velvet Grey" ProductCode="80196210001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="34.596" CostInclTax="41.169" ExtCostExclTax="34.6" ExtCostInclTax="41.17" ExtTaxAmt="6.57" Name="7.60 Jav Jongens White" ProductCode="78394380006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="45.984" CostInclTax="54.721" ExtCostExclTax="45.98" ExtCostInclTax="54.72" ExtTaxAmt="8.74" Name="9.90 JPS Blue Stream" ProductCode="87110730006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="65.442" CostInclTax="77.876" ExtCostExclTax="65.44" ExtCostInclTax="77.87" ExtTaxAmt="12.43" Name="14.00 JPS Red" ProductCode="87100260006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.728" CostInclTax="57.986" ExtCostExclTax="48.73" ExtCostInclTax="57.99" ExtTaxAmt="9.26" Name="8.00 JPS Red" ProductCode="87092550008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="45.984" CostInclTax="54.721" ExtCostExclTax="137.95" ExtCostInclTax="164.16" ExtTaxAmt="26.21" Name="9.90 JPS Red" ProductCode="87095610006" Quantity="3.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="62.296" CostInclTax="74.132" ExtCostExclTax="62.3" ExtCostInclTax="74.14" ExtTaxAmt="11.84" Name="10.00 L&amp;M Blue Labe 2XL F" ProductCode="86901680008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="62.296" CostInclTax="74.132" ExtCostExclTax="62.3" ExtCostInclTax="74.14" ExtTaxAmt="11.84" Name="10.00 L&amp;M Blue Label  3XL" ProductCode="78357160008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="70.476" CostInclTax="83.866" ExtCostExclTax="70.48" ExtCostInclTax="83.87" ExtTaxAmt="13.39" Name="15.00 L&amp;M Red Label   5XL" ProductCode="87333670006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="62.296" CostInclTax="74.132" ExtCostExclTax="186.89" ExtCostInclTax="222.4" ExtTaxAmt="35.51" Name="10.00 L&amp;M Red Label 2XL F" ProductCode="78015700008" Quantity="3.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="54.61" CostInclTax="64.986" ExtCostExclTax="54.61" ExtCostInclTax="64.99" ExtTaxAmt="10.38" Name="7.20 L&amp;M Red Label    OP" ProductCode="87504200010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="12.222" CostInclTax="13.078" ExtCostExclTax="12.22" ExtCostInclTax="13.08" ExtTaxAmt="0.86" Name="Lay's Sour Cream &amp; Onion" ProductCode="77552700009" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="11.874" CostInclTax="12.705" ExtCostExclTax="11.87" ExtCostInclTax="12.7" ExtTaxAmt="0.83" Name="Li Lindor Mischung       &gt;" ProductCode="82300550006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.456" CostInclTax="73.133" ExtCostExclTax="122.91" ExtCostInclTax="146.26" ExtTaxAmt="23.35" Name="10.00 Lucky St Aut Blu Gi" ProductCode="78411270008" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="73.752" CostInclTax="87.765" ExtCostExclTax="73.75" ExtCostInclTax="87.76" ExtTaxAmt="14.01" Name="8.00 Lucky St Aut Bl XXL" ProductCode="87821420012" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.44" CostInclTax="73.114" ExtCostExclTax="122.88" ExtCostInclTax="146.23" ExtTaxAmt="23.35" Name="10.00 Lucky St Aut Red Gi" ProductCode="86839170008" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="73.752" CostInclTax="87.765" ExtCostExclTax="147.5" ExtCostInclTax="175.53" ExtTaxAmt="28.03" Name="8.00 Luck St Aut Red XXL" ProductCode="87869380012" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="26.85" CostInclTax="31.952" ExtCostExclTax="26.85" ExtCostInclTax="31.95" ExtTaxAmt="5.1" Name="6.00 Lucky Str Craft Gal" ProductCode="86837420006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="74.43" CostInclTax="88.572" ExtCostExclTax="74.43" ExtCostInclTax="88.57" ExtTaxAmt="14.14" Name="16.00 Lucky Stri Red Jum" ProductCode="87858160006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.08" CostInclTax="69.115" ExtCostExclTax="58.08" ExtCostInclTax="69.12" ExtTaxAmt="11.04" Name="7.60 Lucky Strike Red OP" ProductCode="86846090010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="61.456" CostInclTax="73.133" ExtCostExclTax="307.28" ExtCostInclTax="365.66" ExtTaxAmt="58.38" Name="10.00 Lucky Str Red Giga" ProductCode="78430060008" Quantity="5.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="73.548" CostInclTax="87.522" ExtCostExclTax="73.55" ExtCostInclTax="87.52" ExtTaxAmt="13.97" Name="8.00 Lucky Stri Red  XXL" ProductCode="77780360012" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="26.814" CostInclTax="31.909" ExtCostExclTax="26.81" ExtCostInclTax="31.9" ExtTaxAmt="5.09" Name="6.00 LuckyStr OrUSA Red" ProductCode="87401400006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="17.232" CostInclTax="18.438" ExtCostExclTax="17.23" ExtCostInclTax="18.44" ExtTaxAmt="1.21" Name="M&amp;M's Peanut" ProductCode="00206510024" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="45.296" CostInclTax="53.902" ExtCostExclTax="90.59" ExtCostInclTax="107.8" ExtTaxAmt="17.21" Name="7.30 Magnum Red Maxi" ProductCode="86696480008" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.67" CostInclTax="68.627" ExtCostExclTax="57.67" ExtCostInclTax="68.63" ExtTaxAmt="10.96" Name="7.70 Marlb Gold long  OP" ProductCode="87504000010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="60.872" CostInclTax="72.438" ExtCostExclTax="121.74" ExtCostInclTax="144.87" ExtTaxAmt="23.13" Name="10.00 Marlboro Mix    2XL" ProductCode="86900680008" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.04" CostInclTax="67.878" ExtCostExclTax="57.04" ExtCostInclTax="67.88" ExtTaxAmt="10.84" Name="7.60 Marlboro Mix     OP" ProductCode="86929620010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.248" CostInclTax="57.415" ExtCostExclTax="192.99" ExtCostInclTax="229.66" ExtTaxAmt="36.67" Name="8.00 Marlboro Mix     XL" ProductCode="86902640008" Quantity="4.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="22.795" CostInclTax="27.126" ExtCostExclTax="22.8" ExtCostInclTax="27.13" ExtTaxAmt="4.33" Name="6.00 Marlb Prem Tob Red" ProductCode="87791740005" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="68.844" CostInclTax="81.924" ExtCostExclTax="137.69" ExtCostInclTax="163.85" ExtTaxAmt="26.16" Name="15.00 Marlboro Red    5XL" ProductCode="86918820006" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="41.577" CostInclTax="49.477" ExtCostExclTax="41.58" ExtCostInclTax="49.48" ExtTaxAmt="7.9" Name="18.00 Marlboro Red    6XL" ProductCode="87330320003" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="5.615" CostInclTax="6.682" ExtCostExclTax="5.62" ExtCostInclTax="6.69" ExtTaxAmt="1.07" Name="Marlboro Hülsen Red" ProductCode="14915460005" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.248" CostInclTax="57.415" ExtCostExclTax="578.98" ExtCostInclTax="688.99" ExtTaxAmt="110.01" Name="8.00 Marlboro Red     XL" ProductCode="86918740008" Quantity="12.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.04" CostInclTax="67.878" ExtCostExclTax="285.2" ExtCostInclTax="339.39" ExtTaxAmt="54.19" Name="7.60 Marlb Silver Blu OP" ProductCode="78366020010" Quantity="5.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.04" CostInclTax="67.878" ExtCostExclTax="114.08" ExtCostInclTax="135.76" ExtTaxAmt="21.68" Name="7.60 Marlboro Sim Red OP" ProductCode="86930080010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="4.297" CostInclTax="5.113" ExtCostExclTax="8.59" ExtCostInclTax="10.22" ExtTaxAmt="1.63" Name="7.20 DA Moods Gold Filt" ProductCode="86916120001" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="5.303" CostInclTax="6.311" ExtCostExclTax="5.3" ExtCostInclTax="6.31" ExtTaxAmt="1.01" Name="my blu Pod Tob Roas B 9mg" ProductCode="78996340001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="5.303" CostInclTax="6.311" ExtCostExclTax="5.3" ExtCostInclTax="6.31" ExtTaxAmt="1.01" Name="my blu Pod Cherry Cr 9mg" ProductCode="85951460001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="5.303" CostInclTax="6.311" ExtCostExclTax="5.3" ExtCostInclTax="6.31" ExtTaxAmt="1.01" Name="my blu Pod Menthol 9mg" ProductCode="85942410001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="8.76" CostInclTax="9.373" ExtCostExclTax="8.76" ExtCostInclTax="9.37" ExtTaxAmt="0.61" Name="Lion White" ProductCode="09000550024" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="6.056" CostInclTax="7.207" ExtCostExclTax="60.56" ExtCostInclTax="72.07" ExtTaxAmt="11.51" Name="10.60 Nobel Petit      SU" ProductCode="86312730001" Quantity="10.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="33.16" CostInclTax="39.46" ExtCostExclTax="33.16" ExtCostInclTax="39.46" ExtTaxAmt="6.3" Name="OCB Activ Tips Slim" ProductCode="82225490010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="27.15" CostInclTax="32.309" ExtCostExclTax="27.15" ExtCostInclTax="32.31" ExtTaxAmt="5.16" Name="OCB schwarz Prem long slim" ProductCode="00792130050" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="24.96" CostInclTax="29.702" ExtCostExclTax="24.96" ExtCostInclTax="29.7" ExtTaxAmt="4.74" Name="OCB schw Prem lon slim+Tip" ProductCode="23173600032" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="21.1" CostInclTax="22.577" ExtCostExclTax="21.1" ExtCostInclTax="22.58" ExtTaxAmt="1.48" Name="Ovofit Omlette Natur     &gt;" ProductCode="71872850050" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="17.3" CostInclTax="20.587" ExtCostExclTax="17.3" ExtCostInclTax="20.59" ExtTaxAmt="3.29" Name="4.50 Pielroja Tobacco" ProductCode="86471740005" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="9.76" CostInclTax="11.614" ExtCostExclTax="9.76" ExtCostInclTax="11.61" ExtTaxAmt="1.85" Name="BraTee Zitrone           &gt;" ProductCode="85206670008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="39.78" CostInclTax="47.338" ExtCostExclTax="79.56" ExtCostInclTax="94.68" ExtTaxAmt="15.12" Name="5.30 Pueblo Blue" ProductCode="78308590010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="39.78" CostInclTax="47.338" ExtCostExclTax="238.68" ExtCostInclTax="284.03" ExtTaxAmt="45.35" Name="5.30 Pueblo" ProductCode="87001570010" Quantity="6.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.53" CostInclTax="69.651" ExtCostExclTax="117.06" ExtCostInclTax="139.3" ExtTaxAmt="22.24" Name="7.80 R1 Blue" ProductCode="77738980010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.53" CostInclTax="69.651" ExtCostExclTax="58.53" ExtCostInclTax="69.65" ExtTaxAmt="11.12" Name="7.80 R1 Red" ProductCode="77740960010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="57.79" CostInclTax="68.77" ExtCostExclTax="57.79" ExtCostInclTax="68.77" ExtTaxAmt="10.98" Name="7.70 R1 SL-Line" ProductCode="78236950010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.75" CostInclTax="69.913" ExtCostExclTax="58.75" ExtCostInclTax="69.91" ExtTaxAmt="11.16" Name="7.90 Reval" ProductCode="87887060010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="104.848" CostInclTax="112.187" ExtCostExclTax="104.85" ExtCostInclTax="112.19" ExtTaxAmt="7.34" Name="Feine Welt RTG Cafe Crema" ProductCode="30206770008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.75" CostInclTax="69.913" ExtCostExclTax="58.75" ExtCostInclTax="69.91" ExtTaxAmt="11.16" Name="7.90 Roth Händle" ProductCode="87908080010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="14.016" CostInclTax="14.997" ExtCostExclTax="14.02" ExtCostInclTax="15.0" ExtTaxAmt="0.98" Name="Snickers" ProductCode="19073180032" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="23.424" CostInclTax="25.064" ExtCostExclTax="23.42" ExtCostInclTax="25.06" ExtTaxAmt="1.64" Name="Snickers Ice Cream Eisrie&gt;" ProductCode="19478270024" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="5">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="3.966" CostInclTax="4.72" ExtCostExclTax="3.97" ExtCostInclTax="4.72" ExtTaxAmt="0.75" Name="6.60 DA Speciale      BR" ProductCode="78346210001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="4.163" CostInclTax="4.954" ExtCostExclTax="20.82" ExtCostInclTax="24.78" ExtTaxAmt="3.96" Name="6.70 Clubm Superior   SU" ProductCode="88530800001" Quantity="5.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="49.6" CostInclTax="59.024" ExtCostExclTax="49.6" ExtCostInclTax="59.02" ExtTaxAmt="9.42" Name="6.50 Pueblo           OP" ProductCode="87002640010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.41" CostInclTax="57.608" ExtCostExclTax="96.82" ExtCostInclTax="115.22" ExtTaxAmt="18.4" Name="6.50 IQOS Heets Amber" ProductCode="86909840010" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.41" CostInclTax="57.608" ExtCostExclTax="435.69" ExtCostInclTax="518.47" ExtTaxAmt="82.78" Name="6.50 IQOS Heets Sienna &gt;" ProductCode="87488900010" Quantity="9.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="2.173" CostInclTax="2.586" ExtCostExclTax="2.17" ExtCostInclTax="2.58" ExtTaxAmt="0.41" Name="3.50 Tropenschatz 824F" ProductCode="78811580001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="56.68" CostInclTax="67.449" ExtCostExclTax="56.68" ExtCostInclTax="67.45" ExtTaxAmt="10.77" Name="7.80 Van Nelle        HZ" ProductCode="87880540010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="58.33" CostInclTax="69.413" ExtCostExclTax="58.33" ExtCostInclTax="69.41" ExtTaxAmt="11.08" Name="7.60 Vogue Bleue      OP" ProductCode="86817420010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="5.859" CostInclTax="6.972" ExtCostExclTax="5.86" ExtCostInclTax="6.97" ExtTaxAmt="1.11" Name="Vuse ePen Cap Nut Tob 12mg" ProductCode="85382520001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="69.972" CostInclTax="83.267" ExtCostExclTax="69.97" ExtCostInclTax="83.26" ExtTaxAmt="13.29" Name="14.90 West Original" ProductCode="87720300006" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="54.46" CostInclTax="64.807" ExtCostExclTax="54.46" ExtCostInclTax="64.81" ExtTaxAmt="10.35" Name="7.20 West Polar" ProductCode="78256110010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.728" CostInclTax="57.986" ExtCostExclTax="48.73" ExtCostInclTax="57.99" ExtTaxAmt="9.26" Name="8.00 West Orig" ProductCode="78245070008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="22.104" CostInclTax="26.304" ExtCostExclTax="44.21" ExtCostInclTax="52.61" ExtTaxAmt="8.4" Name="29.95 West Red Volume Tob" ProductCode="87077550001" Quantity="2.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="54.46" CostInclTax="64.807" ExtCostExclTax="54.46" ExtCostInclTax="64.81" ExtTaxAmt="10.35" Name="7.20 West Silver" ProductCode="87106130010" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.728" CostInclTax="57.986" ExtCostExclTax="48.73" ExtCostInclTax="57.99" ExtTaxAmt="9.26" Name="8.00 West Silver" ProductCode="87118170008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="53.8" CostInclTax="64.022" ExtCostExclTax="53.8" ExtCostInclTax="64.02" ExtTaxAmt="10.22" Name="17.00 Winst Black  BP 6XL" ProductCode="77771730004" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="48.672" CostInclTax="57.92" ExtCostExclTax="48.67" ExtCostInclTax="57.92" ExtTaxAmt="9.25" Name="8.00 Winston Bla   BP XL" ProductCode="87651800008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="62.472" CostInclTax="74.342" ExtCostExclTax="62.47" ExtCostInclTax="74.34" ExtTaxAmt="11.87" Name="10.00 Winston Black XXXXL" ProductCode="87063820008" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="53.8" CostInclTax="64.022" ExtCostExclTax="53.8" ExtCostInclTax="64.02" ExtTaxAmt="10.22" Name="17.00 Winston Red  BP 6XL" ProductCode="87859050004" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="9.519" CostInclTax="11.328" ExtCostExclTax="9.52" ExtCostInclTax="11.33" ExtTaxAmt="1.81" Name="12.95 Winston Vol Tob Red" ProductCode="87295290001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+				<ItemGST CostExclTax="22.305" CostInclTax="26.543" ExtCostExclTax="22.31" ExtCostInclTax="26.55" ExtTaxAmt="4.24" Name="29.95 Winston Vol Tob Red" ProductCode="87311320001" Quantity="1.0" SubSupplierEDINumber="4008813000008" TaxID="4">
+					<PurchaseOrderList>
+						<PurchaseOrder PurchaseOrderNumber="1367204" SSCCCode=""/>
+					</PurchaseOrderList>
+				</ItemGST>
+			</ItemList>
+			<TaxList>
+				<Tax ExternalId="4" TaxAmount="1641.74"/>
+				<Tax ExternalId="5" TaxAmount="25.86"/>
+			</TaxList>
+			<TotalGST CostExclTax="9009.98" CostInclTax="10677.58" TaxAmt="1667.6"/>
+		</Invoice>
+	</InvoiceList>
+</RadiantDocument>                                   
