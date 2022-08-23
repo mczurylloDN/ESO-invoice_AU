@@ -38,5 +38,10 @@ namespace ESO_InvoicesDemo
             get { return Errors; }
             set { Errors = value; }
         }
+
+        public void Contains(string invoice)
+        {
+            //sprawdz czy jest inovice no
+        }
     }
 }

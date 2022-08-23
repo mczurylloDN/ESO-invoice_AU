@@ -32,7 +32,8 @@ namespace ESO_InvoicesDemo
             //child nodes points to = invoice list 
             //the second child node points to = invoice as object 
             //with this we can extract the first header data as it follows:
-            NODE = doc.DocumentElement.ChildNodes[0].ChildNodes[0];
+	        
+		    NODE = doc.DocumentElement.ChildNodes[0].ChildNodes[0]; 
             InvoiceNumber = NODE.Attributes["InvoiceNumber"].InnerText;
             InvoiceDATE = NODE.Attributes["InvoiceDate"].InnerText;
 
@@ -116,6 +117,13 @@ namespace ESO_InvoicesDemo
                         objectResults = new ResultsObject(INVOICE.InvoiceNumber_p, Path.GetFileName(INVOICE.FilenamePath_p), errors);
                         ListOfErrors.Add(objectResults);
                     }
+                    else if (itemGST.Name_p.Length<=50)
+                    { 
+                        errors = "All item names are correct";
+                       
+                        objectResults = new ResultsObject(INVOICE.InvoiceNumber_p, Path.GetFileName(INVOICE.FilenamePath_p), errors);
+                        ListOfErrors.Add(objectResults);
+                    }
                }
 
 
@@ -152,23 +160,21 @@ namespace ESO_InvoicesDemo
                         objectResults = new ResultsObject(INVOICE.InvoiceNumber_p, Path.GetFileName(INVOICE.FilenamePath_p), error);
                         ListOfErrors.Add(objectResults);
                         break;
-                      
-
+                    }
+                    else if (dups.Count == 0)
+                    { 
+                        var error = "There is no duplicated code";
+                        objectResults = new ResultsObject(INVOICE.InvoiceNumber_p, Path.GetFileName(INVOICE.FilenamePath_p), error);
+                        if(!objectResults.Contains(objectResults.InvoiceNumber_p))
+                            {
+                                ListOfErrors.Add(objectResults);
+                            }
+                        break;
                     }
                 }
-
-              
             }
-
             return ListOfErrors.Distinct().ToList();
-
-
         }
-
-
-
-
-
 
 
 
@@ -188,7 +194,7 @@ namespace ESO_InvoicesDemo
             {
 
                 XmlDocument doc = new XmlDocument();
-                XmlNode NODE;
+		        XmlNode NODE;
                 doc.Load(item.FilenamePath_p);
                 NODE = doc.DocumentElement.ChildNodes[0].ChildNodes[0];
                 //we navigate again on the nodes

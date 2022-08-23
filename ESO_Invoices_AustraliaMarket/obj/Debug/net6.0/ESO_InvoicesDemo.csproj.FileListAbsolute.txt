@@ -13,3 +13,18 @@ C:\Users\jose.frutos\Desktop\Frank Session\ESO_InvoicesDemo\obj\Debug\net6.0\ref
 C:\Users\jose.frutos\Desktop\Frank Session\ESO_InvoicesDemo\obj\Debug\net6.0\ESO_InvoicesDemo.pdb
 C:\Users\jose.frutos\Desktop\Frank Session\ESO_InvoicesDemo\obj\Debug\net6.0\ESO_InvoicesDemo.genruntimeconfig.cache
 C:\Users\jose.frutos\Desktop\Frank Session\ESO_InvoicesDemo\obj\Debug\net6.0\ref\ESO_InvoicesDemo.dll
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.csproj.AssemblyReference.cache
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.AssemblyInfoInputs.cache
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.AssemblyInfo.cs
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.csproj.CoreCompileInputs.cache
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.dll
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\refint\ESO_InvoicesDemo.dll
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.pdb
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\bin\Debug\net6.0\ESO_InvoicesDemo.exe
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\bin\Debug\net6.0\ESO_InvoicesDemo.deps.json
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\bin\Debug\net6.0\ESO_InvoicesDemo.runtimeconfig.json
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\bin\Debug\net6.0\ESO_InvoicesDemo.dll
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\bin\Debug\net6.0\ESO_InvoicesDemo.pdb
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ESO_InvoicesDemo.genruntimeconfig.cache
+C:\Users\michc\source\repos\ESO-invoice_AU\ESO_Invoices_AustraliaMarket\obj\Debug\net6.0\ref\ESO_InvoicesDemo.dll
